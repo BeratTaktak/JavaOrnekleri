@@ -6,7 +6,7 @@ public class Hafta4 {
      
       
       
-      int n = 88;
+      int n = 88000;
       int ilk = 0;
       int ikinci = 1;
       
@@ -103,7 +103,7 @@ public class Hafta4 {
       
       /*
       for (int i = 1; i<=1000; i++){
-          System.out.println("Merhaba Dünya");
+          System.out.println("Merhaba D nya");
       }
       */
       
@@ -132,15 +132,15 @@ public class Hafta4 {
       /*
       int sayi = 6;
       if(sayi % 2 == 0){
-          System.out.println("Çift");
+          System.out.println(" ift");
       }
       else {
           System.out.println("Tek");
       }
       
-      //yukarıdaki if else in altarnatifi
+      //yukar daki if else in altarnatifi
       
-      String sonuc = (sayi % 2 == 0) ? "çift" : "Tek";
+      String sonuc = (sayi % 2 == 0) ? " ift" : "Tek";
       System.out.println(sonuc);
       */
       
